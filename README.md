@@ -1,7 +1,12 @@
 open-facebook-wifi
 ==================
 
-A project that wants to bring Facebook WiFi to open platforms such as the Raspberry Pi or Beaglebone Black
+A project that wants to bring Facebook WiFi to open platforms such as the Raspberry Pi or Beaglebone Black.
+Please help raise awareness by supporting our page on Facebook!
+
+
+http://www.facebook.com/pages/Open-FB-Wifi/580734688684227
+
 
 == Status ==
 
